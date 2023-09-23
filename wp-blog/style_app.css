@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Baloo 2", cursive;
+  font-size: 16px;
+  color: #ffffff;
+  height: 100vh;
+  text-rendering: optimizeLegibility;
+  background: #2c3e50;
+  font-weight: initial;
+}
+
+.page-content {
+  padding: 1rem;
+}

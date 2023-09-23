@@ -1,0 +1,5 @@
+I was asked to give you some tasks to complete
+First
+1) Write the HTML structure of the top menu on the page, and then add a file with styles to make it horizontal.
+2) Create a PHP file with HTML structure and write CSS code for the box with the article excerpt. It is to contain a photo, date, category, title, short description and a button with a link.
+3) Create a PHP function using WordPress resources that displays the 9 most recent article sneaks for the given category.
